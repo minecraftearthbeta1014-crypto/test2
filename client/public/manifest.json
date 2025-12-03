@@ -1,0 +1,16 @@
+{
+  "name": "EDEC 303 Study Guide",
+  "short_name": "EDEC 303",
+  "description": "Interactive study application for EDEC 303 Mathematics Theory & Instruction",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
